@@ -22,6 +22,16 @@ Complete Porject</description>
     </item>
     
     <item>
+      <title>Convolutional Nueral Networks</title>
+      <link>https://wayfaringstranger.github.io/SummerInternProjects/post/project-3/</link>
+      <pubDate>Sat, 16 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wayfaringstranger.github.io/SummerInternProjects/post/project-3/</guid>
+      <description>The CIFAR-10dataset is similar to MNIST, except that instead of one color channel (grayscale) there are three channels (RGB).Where an MNIST image has a size of (1,28,28), CIFAR images are (3,32,32). There are 10 categories an image may fall under: 0. airplane
+ automobile bird cat deer dog frog horse ship truck  As with the previous code along, make sure to watch the theory lectures! You&amp;rsquo;ll want to be comfortable with:</description>
+    </item>
+    
+    <item>
       <title>Titanic: Machine Learning from Disaster - Classification</title>
       <link>https://wayfaringstranger.github.io/SummerInternProjects/post/project-1/</link>
       <pubDate>Sat, 16 May 2020 10:58:08 -0400</pubDate>
