@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shubham Patrick</title>
+    <link>https://wayfaringstranger.github.io/SummerInternProjects/post/</link>
+    <description>Recent content in Projects on Shubham Patrick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://wayfaringstranger.github.io/SummerInternProjects/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recurrent Nueral Networks</title>
+      <link>https://wayfaringstranger.github.io/SummerInternProjects/post/chapter-2/</link>
+      <pubDate>Sat, 30 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://wayfaringstranger.github.io/SummerInternProjects/post/chapter-2/</guid>
+      <description>For these project we&amp;rsquo;re using data from the Federal Reserve Economic Database (FRED) concerning Sales of Beer, Wine, and Distilled Alcoholic Beverages in millions of dollars from January 1992 to January 2019 (325 records).
+Complete Porject</description>
+    </item>
+    
+    <item>
+      <title>Titanic: Machine Learning from Disaster - Classification</title>
+      <link>https://wayfaringstranger.github.io/SummerInternProjects/post/chapter-1/</link>
+      <pubDate>Sat, 16 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wayfaringstranger.github.io/SummerInternProjects/post/chapter-1/</guid>
+      <description>In this project, We are going to use Kaggle Titanic Competition dataset for classification task.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.</description>
+    </item>
+    
+  </channel>
+</rss>
